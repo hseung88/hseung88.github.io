@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Home"
-permalink: /
+title: "About"
+permalink: /about/
 ---
 
 <img src="assets/images/Profile.jpg" alt="Hyunseok Seung" style="width:200px; border-radius:50%;">
 
 
-### About Me
+
 I am a Postdoctoral Researcher in the Statistics Department at the [University of Wisconsin–Madison](https://stat.wisc.edu/), where I work with 
 Dr. [Matthias Katzfuss](https://sites.google.com/view/katzfuss/home?authuser=0).
 
@@ -21,5 +21,8 @@ My research focuses on **deep learning optimization**, with an emphasis on gradi
 I aim to develop optimization algorithms that are both theoretically principled and computationally efficient, enabling the scalable training of large-scale vision and language models.
 
 
+### Contact
 - Email: `88hseung at gmail dot com`
 - [Google Scholar](https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en)
+- [GitHub](https://github.com/hseung88)
+- [LinkedIn](https://www.linkedin.com/in/hseung/)
