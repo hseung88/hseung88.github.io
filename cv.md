@@ -4,6 +4,4 @@ title: "CV"
 permalink: /cv/
 ---
 
-Download my CV: [Hyunseok_Seung_CV.pdf](/assets/cv/Hyunseok_Seung_CV.pdf)
-
-_Place your CV file at `assets/cv/Hyunseok_Seung_CV.pdf` in this repository._
+<embed src="/assets/cv/Academic_CV_Hyunseok_Seung.pdf" type="application/pdf" width="100%" height="1000px" />

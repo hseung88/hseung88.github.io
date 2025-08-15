@@ -1,15 +1,9 @@
 ---
 layout: home
-title: "Home"
+title: "Hyunseok Seung"
 ---
 
-Welcome! I'm a postdoctoral researcher in the **Statistics Department at UW–Madison**.
+![Hyunseok Seung](assets/images/profile.jpg){: style="width:200px; border-radius:50%;" }
 
-My research focuses on **deep learning optimization**, curvature‑aware preconditioning, and **scalable Gaussian processes**.
-
-**Quick links:**  
-- [About](about)  
-- [Publications](publications)  
-- [Projects](projects)  
-- [CV](cv)  
-- [Contact](about#contact)
+I am a Postdoctoral Researcher in the Statistics Department at the **University of Wisconsin–Madison**, where I work with Dr. Matthias Katzfuss.
+My research focuses on **Deep Learning Optimization**,

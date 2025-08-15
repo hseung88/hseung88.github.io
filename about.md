@@ -14,6 +14,6 @@ I build optimizers that are both _theoretically grounded_ and _practical at scal
 - Large‑Scale Gaussian Processes
 
 ## Contact
-- Email: `firstname.lastname@wisc.edu`
+- Email: `88hseung at gmail dot com`
 - Google Scholar: <https://scholar.google.com/>
-- GitHub: <https://github.com/<your-username>>
+- GitHub: <https://github.com/hseung88>
