@@ -1,9 +1,11 @@
 ---
-layout: home
-title: "About"
+layout: page
+title: "Home"
+permalink: /
 ---
 
-![Hyunseok Seung](assets/images/Profile.jpg){: style="width:200px; border-radius:50%;" }
+<img src="assets/images/Profile.jpg" alt="Hyunseok Seung" style="width:200px; border-radius:50%;">
+
 
 ### About Me
 I am a Postdoctoral Researcher in the Statistics Department at the [University of Wisconsin–Madison](https://stat.wisc.edu/), where I work with 
