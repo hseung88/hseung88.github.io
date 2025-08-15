@@ -21,8 +21,5 @@ My research focuses on **deep learning optimization**, with an emphasis on gradi
 I aim to develop optimization algorithms that are both theoretically principled and computationally efficient, enabling the scalable training of large-scale vision and language models.
 
 
-### Contact
 - Email: `88hseung at gmail dot com`
 - [Google Scholar](https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en)
-- [GitHub](https://github.com/hseung88)
-- [LinkedIn](https://www.linkedin.com/in/hseung/)
