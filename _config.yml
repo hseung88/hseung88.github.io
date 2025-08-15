@@ -1,0 +1,13 @@
+title: "Hyunseok Seung"
+description: "Postdoctoral Researcher, Statistics @ UW–Madison. Deep Learning Optimization, Scalable ML, Gaussian Processes."
+theme: minima
+author: "Hyunseok Seung"
+# Optional: set your site URL after you create the repo
+url: "https://<your-username>.github.io"
+github_username: "<your-username>"
+# Minima options
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/<your-username>" }
+    - { platform: google_scholar,  user_url: "https://scholar.google.com/" }
