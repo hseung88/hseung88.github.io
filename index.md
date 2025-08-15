@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /about/
+permalink: /
 ---
 
 <img src="assets/images/Profile.jpg" alt="Hyunseok Seung" style="width:200px; border-radius:50%;">
