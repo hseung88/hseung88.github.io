@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
----
 
 ### Peer-reviewed Conference Proceedings
 1. **NysAct: A Scalable Preconditioned Gradient Descent using Nyström Approximation** \
@@ -16,15 +15,11 @@ permalink: /publications/
    Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
    *IEEE International Conference on Data Mining Workshop*, 2024
 
----
-
 
 ### Journal Articles
 1. **Modified Likelihood Ratio Tests for Extreme Value Distributions** \
  Hyunseok Seung and Sangun Park \
    *Communications in Statistics - Theory and Methods*, 2023
-
----
 
 
 ### Manuscripts in Progress
