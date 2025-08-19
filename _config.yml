@@ -6,12 +6,12 @@ url: "https://hseung88.github.io"
 
 github_username: hseung88
 linkedin_username: hseung
-email: 88hseung@gmail.com
+#email: 88hseung@gmail.com
 
 minima:
   skin: dark
   social_links:
-    - { platform: email, user_url: "mailto:88hseung@gmail.com" }
+    #- { platform: email, user_url: "mailto:88hseung@gmail.com" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/hseung/" }
     - { platform: github,  user_url: "https://github.com/hseung88/" }
 
