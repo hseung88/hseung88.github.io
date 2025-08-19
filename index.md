@@ -22,7 +22,7 @@ I aim to develop optimization algorithms that are both theoretically principled 
 
 
 ### Contact
-- Email: `88hseung at gmail dot com`
+- Email: `hseung2 at wisc dot edu`
 - [Google Scholar](https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en)
 - [GitHub](https://github.com/hseung88)
 - [LinkedIn](https://www.linkedin.com/in/hseung/)
