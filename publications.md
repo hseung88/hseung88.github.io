@@ -9,7 +9,7 @@ permalink: /publications/
 1. **MAC: An Efficient Gradient Preconditioning using Mean Activation
 Approximated Curvature** \
      Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
-    *IEEE International Conference on Data Mining (ICDM)*, 2024
+    *IEEE International Conference on Data Mining (ICDM)*, 2025
 
 2. **NysAct: A Scalable Preconditioned Gradient Descent using Nyström Approximation** \
       Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
