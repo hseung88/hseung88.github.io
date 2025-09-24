@@ -17,7 +17,7 @@ Approximated Curvature** \
 
 3. **An Adaptive Method Stabilizing Activations for Enhanced Generalization** \
    Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
-   *IEEE International Conference on Data Mining (ICDM) Workshop*, 2024
+   *IEEE International Conference on Data Mining Workshop (ICDMW)*, 2024
 
 
 ### Journal Articles
@@ -26,7 +26,7 @@ Approximated Curvature** \
    *Communications in Statistics - Theory and Methods*, 2023
 
 
-### Manuscripts in Progress
+### Manuscripts Submitted
 1. **Low-Rank Curvature for Zeroth-Order Optimization in LLM
 Fine-tuning** \
       Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko
