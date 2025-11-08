@@ -17,8 +17,8 @@ Prior to that, I completed my M.A. in Applied Statistics at [Yonsei University](
 under the guidance of Professor [Sangun Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=CmRXJlwS0DJ2cQUfMSCViw%3D%3D&sosokcd=0000203), 
 and my B.A. in Applied Statistics at Yonsei University in 2016.
 
-My research focuses on *deep learning optimization*, with an emphasis on gradient-based methods that leverage second-order information. 
-I aim to develop optimization algorithms that are both theoretically principled and computationally efficient, enabling the scalable training of large-scale vision and language models.
+My research focuses on deep learning optimization and Bayesian optimization, with an emphasis on gradient-based methods that leverage second-order information. 
+I aim to develop optimization algorithms that are both theoretically principled and computationally efficient, enabling the scalable training of large-scale and high-dimensional models.
 
 
 ### Contact

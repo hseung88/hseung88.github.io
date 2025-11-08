@@ -6,16 +6,20 @@ permalink: /publications/
 
 
 ### Peer-reviewed Conference Proceedings
-1. **MAC: An Efficient Gradient Preconditioning using Mean Activation
+1. **Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-tuning** \
+    Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
+    *Proceedings of the AAAI Conference on Artificial Intelligence*, 2026
+
+2. **MAC: An Efficient Gradient Preconditioning using Mean Activation
 Approximated Curvature** \
      Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
     *IEEE International Conference on Data Mining (ICDM)*, 2025
 
-2. **NysAct: A Scalable Preconditioned Gradient Descent using Nyström Approximation** \
+3. **NysAct: A Scalable Preconditioned Gradient Descent using Nyström Approximation** \
       Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
    *IEEE International Conference on Big Data*, 2024
 
-3. **An Adaptive Method Stabilizing Activations for Enhanced Generalization** \
+4. **An Adaptive Method Stabilizing Activations for Enhanced Generalization** \
    Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
    *IEEE International Conference on Data Mining Workshop (ICDMW)*, 2024
 
@@ -27,10 +31,6 @@ Approximated Curvature** \
 
 
 ### Manuscripts Submitted
-1. **Low-Rank Curvature for Zeroth-Order Optimization in LLM
-Fine-tuning** \
-      Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko
-
-2. **Enhancing COVID-19 Mortality Prediction with
+1. **Enhancing COVID-19 Mortality Prediction with
 Online Autocovariance Change Points Detection** \
       Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke
