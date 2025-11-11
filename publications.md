@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 ### Peer-reviewed Conference Proceedings
-1. **Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-tuning** \
+1. **Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning** \
     Hyunseok Seung, Jaewoo Lee, and Hyunsuk Ko \
     *Proceedings of the AAAI Conference on Artificial Intelligence*, 2026
 
