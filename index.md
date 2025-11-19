@@ -127,7 +127,7 @@ permalink: /
 
   <p>
     I received my Ph.D. in Statistics from the
-    <a href="https://stat.uga.edu/">University of Georgia</a> in 2025, co-advised by
+    <a href="https://stat.uga.edu/">University of Georgia</a> in 2025, co-advised by Professors
     <a href="https://www.ai.uga.edu/directory/people/jaewoo-lee">Jaewoo Lee</a> and
     <a href="https://yuan-ke.github.io/">Yuan Ke</a>. Before that, I completed my M.A. and B.A.
     in Applied Statistics at
