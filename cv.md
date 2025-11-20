@@ -55,6 +55,11 @@ permalink: /cv/
   margin-bottom: 1rem;
 }
 
+.cv-button-outline {
+  background-color: transparent;
+  color: var(--accent-color);
+}
+
 .cv-button:hover {
   opacity: 0.9;
 }
@@ -72,7 +77,7 @@ permalink: /cv/
   <div class="cv-section">
     <h2>Curriculum Vitae</h2>
 
-    <a class="cv-button"
+    <a class="cv-button-outline"
        href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
        target="_blank"
        download="Hyunseok_Seung_CV">
