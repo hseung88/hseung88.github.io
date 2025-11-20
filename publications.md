@@ -1,7 +1,12 @@
 ---
 layout: page
+title: "Publication"
 permalink: /publications/
 ---
+
+<style>
+.page-title { display: none; }
+</style>
 
 <style>
 :root {

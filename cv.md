@@ -1,7 +1,13 @@
 ---
 layout: page
+title: "CV"
 permalink: /cv/
 ---
+
+<style>
+.page-title { display: none; }
+</style>
+
 <style>
 :root {
   --accent-color: #0056a4;
