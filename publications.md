@@ -5,10 +5,14 @@ permalink: /publications/
 ---
 
 <style>
-.page-title { display: none; }
-</style>
+/* Remove auto-generated page title across themes */
+h1.page-title,
+h1.post-title,
+h1.page-heading,
+header h1 {
+  display: none !important;
+}
 
-<style>
 :root {
   --accent-color: #0056a4;
   --accent-soft: #f4f7fb;

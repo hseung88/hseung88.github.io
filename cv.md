@@ -5,10 +5,15 @@ permalink: /cv/
 ---
 
 <style>
-.page-title { display: none; }
-</style>
+/* Remove auto-generated page title across themes */
+h1.page-title,
+h1.post-title,
+h1.page-heading,
+header h1 {
+  display: none !important;
+}
 
-<style>
+/* Theme variables */
 :root {
   --accent-color: #0056a4;
   --accent-soft: #f4f7fb;
@@ -42,17 +47,19 @@ permalink: /cv/
   color: var(--accent-color);
 }
 
+.cv-button-wrapper {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
 .cv-button {
   display: inline-block;
-  padding: 0.45rem 1.1rem;
+  padding: 0.35rem 0.9rem;
   border-radius: 999px;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   text-decoration: none;
   border: 1px solid var(--accent-color);
-  color: #ffffff;
-  background-color: var(--accent-color);
   font-weight: 500;
-  margin-bottom: 1rem;
 }
 
 .cv-button-outline {
@@ -77,12 +84,14 @@ permalink: /cv/
   <div class="cv-section">
     <h2>Curriculum Vitae</h2>
 
-    <a class="cv-button-outline"
-       href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
-       target="_blank"
-       download="Hyunseok_Seung_CV">
-      Download CV (PDF)
-    </a>
+    <div class="cv-button-wrapper">
+      <a class="cv-button cv-button-outline"
+         href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
+         target="_blank"
+         download="Hyunseok_Seung_CV">
+        Download CV (PDF)
+      </a>
+    </div>
 
     <embed class="cv-embed"
            src="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
