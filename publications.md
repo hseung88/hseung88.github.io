@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Publications"
 permalink: /publications/
 ---
 
@@ -67,10 +66,10 @@ permalink: /publications/
 
 .pub-button {
   display: inline-block;
-  padding: 0.15rem 0.6rem;
+  padding: 0.10rem 0.45rem; 
   margin-right: 0.4rem;
   border-radius: 999px;
-  font-size: 0.78rem;
+  font-size: 0.72rem; 
   text-decoration: none;
   border: 1px solid var(--accent-color);
   color: #ffffff;
@@ -104,7 +103,7 @@ permalink: /publications/
           AAAI Conference on Artificial Intelligence, 2026
         </div>
         <div class="pub-links">
-          <a class="pub-button" href="https://arxiv.org/pdf/2511.07971" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2511.07971" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/loren" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -120,7 +119,7 @@ permalink: /publications/
           IEEE International Conference on Data Mining (ICDM), 2025
         </div>
         <div class="pub-links">
-          <a class="pub-button" href="https://arxiv.org/pdf/2506.08464" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08464" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/mac" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -136,7 +135,7 @@ permalink: /publications/
           IEEE International Conference on Big Data, 2024
         </div>
         <div class="pub-links">
-          <a class="pub-button" href="https://arxiv.org/pdf/2506.08360" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08360" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/nysact" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -152,7 +151,7 @@ permalink: /publications/
           IEEE International Conference on Data Mining Workshop (ICDMW), 2024
         </div>
         <div class="pub-links">
-          <a class="pub-button" href="https://arxiv.org/pdf/2506.08353" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08353" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/adaact" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -175,7 +174,7 @@ permalink: /publications/
           Communications in Statistics – Theory and Methods, 2023
         </div>
         <div class="pub-links">
-          <a class="pub-button" href="https://doi.org/10.1080/03610926.2021.2018463" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1080/03610926.2021.2018463" target="_blank" rel="noopener">Paper</a>
         </div>
       </li>
 

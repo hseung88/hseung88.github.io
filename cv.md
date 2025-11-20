@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "CV"
 permalink: /cv/
 ---
-
 <style>
 :root {
   --accent-color: #0056a4;
@@ -30,7 +28,7 @@ permalink: /cv/
 
 .cv-section h2 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   font-size: 1.1rem;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -48,6 +46,7 @@ permalink: /cv/
   color: #ffffff;
   background-color: var(--accent-color);
   font-weight: 500;
+  margin-bottom: 1rem;
 }
 
 .cv-button:hover {
@@ -55,7 +54,7 @@ permalink: /cv/
 }
 
 .cv-embed {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   width: 100%;
   border: none;
   border-radius: 8px;
@@ -66,14 +65,13 @@ permalink: /cv/
 
   <div class="cv-section">
     <h2>Curriculum Vitae</h2>
-    <p>
-      <a class="cv-button"
-         href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
-         target="_blank"
-         download="Hyunseok_Seung_CV">
-        Download CV (PDF)
-      </a>
-    </p>
+
+    <a class="cv-button"
+       href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
+       target="_blank"
+       download="Hyunseok_Seung_CV">
+      Download CV (PDF)
+    </a>
 
     <embed class="cv-embed"
            src="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
