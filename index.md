@@ -128,16 +128,20 @@ permalink: /
   <p>
     I received my Ph.D. in Statistics from the
     <a href="https://stat.uga.edu/">University of Georgia</a> in 2025, co-advised by Professors
-    <a href="https://www.ai.uga.edu/directory/people/jaewoo-lee">Jaewoo Lee</a> and
+    <a href="https://ppmlguy.github.io/">Jaewoo Lee</a> and
     <a href="https://yuan-ke.github.io/">Yuan Ke</a>. Before that, I completed my M.A. and B.A.
     in Applied Statistics at
     <a href="https://devcms.yonsei.ac.kr/stat_en/index.do">Yonsei University</a>.
   </p>
 
   <p>
-    My research focuses on deep learning optimization and Bayesian optimization, with an emphasis on
-    curvature-aware gradient methods.
+    My research focuses on 
+    <span style="color: var(--accent-color); font-weight: 600;">deep learning optimization</span>
+    and 
+    <span style="color: var(--accent-color); font-weight: 600;">Bayesian optimization</span>,
+    with an emphasis on curvature-aware gradient methods.
   </p>
+
 
   <div class="page-section">
     <h2>News 📰</h2>
@@ -167,14 +171,12 @@ permalink: /
     </ul>
   </div>
 
-  <div class="page-section">
-    <h2>Contact 📫</h2>
-    <ul class="contact-list">
-      <li>Email: <code>hseung2 at wisc dot edu</code></li>
-      <li><a href="https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en">Google Scholar</a></li>
-      <li><a href="https://github.com/hseung88">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/hseung/">LinkedIn</a></li>
-    </ul>
-  </div>
+<div class="page-section">
+  <h2>Contact 📫</h2>
+  <ul class="contact-list">
+    <li>Email: <code>hseung2 at wisc dot edu</code></li>
+    <li><a href="https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en">Google Scholar</a></li>
+  </ul>
+</div>
 
 </div>
