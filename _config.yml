@@ -1,7 +1,7 @@
 title: "Hyunseok Seung"
 author: ""
 description: "Postdoctoral Researcher, Statistics @ UW–Madison."
-remote_theme: jekyll/minima
+theme: minima
 url: "https://hseung88.github.io"
 
 github_username: hseung88
@@ -11,8 +11,7 @@ minima:
   skin: classic
   social_links:
     - { platform: google_scholar,
-        user_url: "https://scholar.google.com/citations?user=qgzaJCcAAAAJ",
-        title: "Google Scholar" }
+        user_url: "https://scholar.google.com/citations?user=qgzaJCcAAAAJ"}
     - { platform: github,
         user_url: "https://github.com/hseung88" }
     - { platform: linkedin,
@@ -20,7 +19,6 @@ minima:
 
 plugins:
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 header_pages:
   - index.md
