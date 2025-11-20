@@ -1,26 +1,37 @@
 title: "Hyunseok Seung"
-author: ""
-description: "Postdoctoral Researcher, Statistics @ UW–Madison."
-theme: minima
+tagline: "Postdoctoral Researcher, Statistics @ UW–Madison"
+description: "Deep Learning Optimization · Bayesian Optimization"
+
 url: "https://hseung88.github.io"
+baseurl: ""
 
-github_username: hseung88
-linkedin_username: hseung
+theme: jekyll-theme-chirpy
 
-minima:
-  skin: classic
-  social_links:
-    - { platform: google_scholar,
-        user_url: "https://scholar.google.com/citations?user=qgzaJCcAAAAJ"}
-    - { platform: github,
-        user_url: "https://github.com/hseung88" }
-    - { platform: linkedin,
-        user_url: "https://www.linkedin.com/in/hseung/" }
+lang: en
+
+timezone: America/Chicago
+
+# Social links
+social:
+  github: hseung88
+  linkedin: hseung
+  google_scholar: "https://scholar.google.com/citations?user=qgzaJCcAAAAJ"
+  email: "hseung2 at wisc dot edu"
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv
 
 plugins:
-  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
 
-header_pages:
-  - index.md
-  - publications.md
-  - cv.md
+custom_css:
+  - assets/css/custom-style.scss
