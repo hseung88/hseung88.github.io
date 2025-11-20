@@ -171,12 +171,4 @@ permalink: /
     </ul>
   </div>
 
-<div class="page-section">
-  <h2>Contact 📫</h2>
-  <ul class="contact-list">
-    <li>Email: <code>hseung2 at wisc dot edu</code></li>
-    <li><a href="https://scholar.google.com/citations?user=qgzaJCcAAAAJ&hl=en">Google Scholar</a></li>
-  </ul>
-</div>
-
 </div>
