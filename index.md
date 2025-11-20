@@ -115,7 +115,8 @@ permalink: /
     <img src="assets/images/Profile.jpg" alt="Hyunseok Seung">
     <h1>Hyunseok Seung</h1>
     <div class="subtitle">
-      Postdoctoral Researcher · University of Wisconsin–Madison
+      Postdoctoral Researcher · University of Wisconsin–Madison<br>
+      <span style="color: var(--muted-color);">hseung2 at wisc dot edu</span>
     </div>
   </div>
 
