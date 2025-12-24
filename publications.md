@@ -203,6 +203,15 @@ header h1 {
         </div>
       </li>
 
+      <li>
+        <div class="pub-title">
+          Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks
+        </div>
+        <div class="pub-authors">
+          <strong>Hyunseok Seung</strong>, Jaewoo Lee, and Hyunsuk Ko
+        </div>
+      </li>
+
     </ul>
   </div>
 
