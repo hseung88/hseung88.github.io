@@ -114,6 +114,7 @@ header h1 {
         <div class="pub-links">
           <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2511.07971" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/loren" target="_blank" rel="noopener">Code</a>
+          <a class="pub-button pub-button-outline" href="https://raw.githubusercontent.com/hseung88/hseung88.github.io/main/posters/_AAAI_2026_LOREN_poster.pdf" target="_blank" rel="noopener">Poster</a>
         </div>
       </li>
 
