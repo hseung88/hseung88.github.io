@@ -112,9 +112,9 @@ header h1 {
           AAAI Conference on Artificial Intelligence, 2026
         </div>
         <div class="pub-links">
-          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2511.07971" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1609/aaai.v40i30.39715" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/loren" target="_blank" rel="noopener">Code</a>
-          <a class="pub-button pub-button-outline" href="https://raw.githubusercontent.com/hseung88/hseung88.github.io/main/assets/posters/_AAAI_2026__LOREN_poster.pdf" target="_blank" rel="noopener">Poster</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.48448/rbw0-jh68" target="_blank" rel="noopener">Poster</a>
         </div>
       </li>
 
@@ -129,7 +129,7 @@ header h1 {
           IEEE International Conference on Data Mining (ICDM), 2025
         </div>
         <div class="pub-links">
-          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08464" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1109/ICDM65498.2025.00077" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/mac" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -145,7 +145,7 @@ header h1 {
           IEEE International Conference on Big Data, 2024
         </div>
         <div class="pub-links">
-          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08360" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1109/BigData62323.2024.10825352" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/nysact" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
@@ -161,7 +161,7 @@ header h1 {
           IEEE International Conference on Data Mining Workshop (ICDMW), 2024
         </div>
         <div class="pub-links">
-          <a class="pub-button pub-button-outline" href="https://arxiv.org/pdf/2506.08353" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1109/ICDMW65004.2024.00007" target="_blank" rel="noopener">Paper</a>
           <a class="pub-button pub-button-outline" href="https://github.com/hseung88/adaact" target="_blank" rel="noopener">Code</a>
         </div>
       </li>
