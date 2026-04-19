@@ -175,6 +175,21 @@ header h1 {
 
       <li>
         <div class="pub-title">
+          Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks
+        </div>
+        <div class="pub-authors">
+          <strong>Hyunseok Seung</strong>, Jaewoo Lee, and Hyunsuk Ko
+        </div>
+        <div class="pub-venue">
+          Knowledge and Information Systems, 2026
+        </div>
+        <div class="pub-note">
+          Invited journal extension from the IEEE ICDM 2025 best-ranked paper selection
+        </div>
+      </li>
+
+      <li>
+        <div class="pub-title">
           Modified Likelihood Ratio Tests for Extreme Value Distributions
         </div>
         <div class="pub-authors">
@@ -201,15 +216,6 @@ header h1 {
         </div>
         <div class="pub-authors">
           <strong>Hyunseok Seung</strong>, Kaiwen Han, Ye Shen, and Yuan Ke
-        </div>
-      </li>
-
-      <li>
-        <div class="pub-title">
-          Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks
-        </div>
-        <div class="pub-authors">
-          <strong>Hyunseok Seung</strong>, Jaewoo Lee, and Hyunsuk Ko
         </div>
       </li>
 
