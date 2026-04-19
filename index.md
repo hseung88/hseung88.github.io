@@ -148,6 +148,13 @@ permalink: /
     <h2>News 📰</h2>
     <ul>
       <li>
+        <span class="news-date">04/2026</span>
+        <span class="news-item-title">
+          <em>Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks</em>
+        </span>
+        accepted to Knowledge and Information Systems.
+      </li>
+      <li>
         <span class="news-date">11/2025</span>
         <span class="news-item-title">
           <em>Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning</em>
