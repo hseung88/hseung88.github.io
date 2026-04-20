@@ -161,40 +161,40 @@ permalink: /
 
 
   <div class="page-section">
-  <h2>News 📰</h2>
-  <ul class="news-list">
-    <li>
-      <span class="news-date">04/2026</span>
-      <span class="news-tag">Journal</span>
-      <span class="news-item-title">
-        <em>Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks</em>
-      </span>
-      accepted for publication in <em>Knowledge and Information Systems</em>.
-    </li>
-    <li>
-      <span class="news-date">11/2025</span>
-      <span class="news-tag">Conference</span>
-      <span class="news-item-title">
-        <em>Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning</em>
-      </span>
-      accepted to <em>AAAI Conference on Artificial Intelligence 2026</em>.
-      <a href="https://arxiv.org/abs/2511.07971" target="_blank" rel="noopener">arXiv</a>
-    </li>
-    <li>
-      <span class="news-date">10/2025</span>
-      <span class="news-tag">Conference</span>
-      <span class="news-item-title">
-        <em>MAC: An Efficient Gradient Preconditioning using Mean Activation Approximated Curvature</em>
-      </span>
-      accepted to <em>IEEE International Conference on Data Mining 2025</em>.
-      <a href="https://arxiv.org/abs/2506.08464" target="_blank" rel="noopener">arXiv</a>
-    </li>
-    <li>
-      <span class="news-date">08/2025</span>
-      <span class="news-tag">Position</span>
-      Joined the Katzfuss group as a postdoctoral researcher.
-    </li>
-  </ul>
+    <h2>News 📰</h2>
+    <ul class="news-list">
+      <li>
+        <span class="news-date">04/2026</span>
+        <span class="news-tag">Journal</span>
+        <span class="news-item-title">
+          <em>Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks</em>
+        </span>
+        accepted for publication in <em>Knowledge and Information Systems</em>.
+      </li>
+      <li>
+        <span class="news-date">11/2025</span>
+        <span class="news-tag">Conference</span>
+        <span class="news-item-title">
+          <em>Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning</em>
+        </span>
+        accepted to <em>AAAI Conference on Artificial Intelligence 2026</em>.
+        <a href="https://arxiv.org/abs/2511.07971" target="_blank" rel="noopener">arXiv</a>
+      </li>
+      <li>
+        <span class="news-date">10/2025</span>
+        <span class="news-tag">Conference</span>
+        <span class="news-item-title">
+          <em>MAC: An Efficient Gradient Preconditioning using Mean Activation Approximated Curvature</em>
+        </span>
+        accepted to <em>IEEE International Conference on Data Mining 2025</em>.
+        <a href="https://arxiv.org/abs/2506.08464" target="_blank" rel="noopener">arXiv</a>
+      </li>
+      <li>
+        <span class="news-date">08/2025</span>
+        <span class="news-tag">Position</span>
+        Joined the Katzfuss group as a postdoctoral researcher.
+      </li>
+    </ul>
   </div>
 
 </div>
