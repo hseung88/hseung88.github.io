@@ -118,7 +118,7 @@ header h1 {
         </div>
         <div class="pub-venue">
           AAAI Conference on Artificial Intelligence, 2026
-          <span class="pub-meta"> Acceptance rate: 17.6%</span>
+          <span class="pub-meta"> Acceptance rate 17.6%</span>
         </div>
         <div class="pub-links">
           <a class="pub-button pub-button-outline" href="https://doi.org/10.1609/aaai.v40i30.39715" target="_blank" rel="noopener">Paper</a>
@@ -136,7 +136,7 @@ header h1 {
         </div>
         <div class="pub-venue">
           IEEE International Conference on Data Mining (ICDM), 2025
-           <span class="pub-meta"> Acceptance rate: 22.0%</span>
+           <span class="pub-meta"> Acceptance rate 22.0%</span>
         </div>
         <div class="pub-note">
           Selected as one of the best-ranked papers
@@ -195,6 +195,7 @@ header h1 {
         </div>
         <div class="pub-venue">
           Knowledge and Information Systems, 2026
+          <span class="pub-meta"> IF 3.1</span>
         </div>
         <div class="pub-note">
           Invited journal extension of our IEEE ICDM 2025 paper
