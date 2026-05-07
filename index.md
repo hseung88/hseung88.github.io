@@ -164,6 +164,14 @@ permalink: /
     <h2>News 📰</h2>
     <ul class="news-list">
       <li>
+        <span class="news-date">05/2026</span>
+        <span class="news-tag">Journal</span>
+        <span class="news-item-title">
+          <em>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</em>
+        </span>
+        accepted for publication in <em>Stat</em>.
+      </li>
+      <li>
         <span class="news-date">04/2026</span>
         <span class="news-tag">Journal</span>
         <span class="news-item-title">

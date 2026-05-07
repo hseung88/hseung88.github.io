@@ -188,6 +188,18 @@ header h1 {
 
       <li>
         <div class="pub-title">
+          Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection
+        </div>
+        <div class="pub-authors">
+          <strong>Hyunseok Seung</strong>, Kaiwen Han, Ye Shen, and Yuan Ke
+        </div>
+        <div class="pub-venue">
+          Stat, 2026
+        </div>
+      </li>
+
+      <li>
+        <div class="pub-title">
           Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks
         </div>
         <div class="pub-authors">
@@ -226,10 +238,10 @@ header h1 {
 
       <li>
         <div class="pub-title">
-          Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection
+          Scalable Derivative Gaussian Processes via Exact Gradient Reduction
         </div>
         <div class="pub-authors">
-          <strong>Hyunseok Seung</strong>, Kaiwen Han, Ye Shen, and Yuan Ke
+          <strong>Hyunseok Seung</strong> and Matthias Katzfuss
         </div>
       </li>
 
