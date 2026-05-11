@@ -106,7 +106,23 @@ header h1 {
 <div class="pub-container">
 
   <div class="pub-section">
-    <h2>Peer-Reviewed Conference Proceedings</h2>
+    <h2>Under Review</h2>
+    <ul class="pub-list">
+
+      <li>
+        <div class="pub-title">
+          Scalable Derivative Gaussian Processes via Exact Gradient Reduction
+        </div>
+        <div class="pub-authors">
+          <strong>Hyunseok Seung</strong> and Matthias Katzfuss
+        </div>
+      </li>
+
+    </ul>
+  </div>
+
+  <div class="pub-section">
+    <h2>Conference Proceedings</h2>
     <ul class="pub-list">
 
       <li>
@@ -226,22 +242,6 @@ header h1 {
         </div>
         <div class="pub-links">
           <a class="pub-button pub-button-outline" href="https://doi.org/10.1080/03610926.2021.2018463" target="_blank" rel="noopener">Paper</a>
-        </div>
-      </li>
-
-    </ul>
-  </div>
-
-  <div class="pub-section">
-    <h2>Manuscripts Submitted</h2>
-    <ul class="pub-list">
-
-      <li>
-        <div class="pub-title">
-          Scalable Derivative Gaussian Processes via Exact Gradient Reduction
-        </div>
-        <div class="pub-authors">
-          <strong>Hyunseok Seung</strong> and Matthias Katzfuss
         </div>
       </li>
 
