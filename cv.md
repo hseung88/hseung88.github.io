@@ -94,7 +94,7 @@ header h1 {
     </div>
 
     <embed class="cv-embed"
-           src="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
+           src="{{ '/assets/cv/CurriculumVitae_HyunseokSeung.pdf' | relative_url }}"
            type="application/pdf"
            height="1000px" />
   </div>
