@@ -86,7 +86,7 @@ header h1 {
 
     <div class="cv-button-wrapper">
       <a class="cv-button cv-button-outline"
-         href="{{ '/assets/cv/Academic_CV_Hyunseok_Seung.pdf' | relative_url }}"
+         href="{{ '/assets/cv/CurriculumVitae_HyunseokSeung.pdf' | relative_url }}"
          target="_blank"
          download="Hyunseok_Seung_CV">
         Download CV (PDF)
