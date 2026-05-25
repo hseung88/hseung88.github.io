@@ -212,6 +212,10 @@ header h1 {
         <div class="pub-venue">
           Stat, 2026
         </div>
+        <div class="pub-links">
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1002/sta4.70159" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://github.com/hseung88/covid_cp_forecasting" target="_blank" rel="noopener">Code</a>
+        </div>
       </li>
 
       <li>
