@@ -232,6 +232,9 @@ header h1 {
         <div class="pub-note">
           Invited journal extension of our IEEE ICDM 2025 paper
         </div>
+        <div class="pub-links">
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.1007/s10115-026-02781-7" target="_blank" rel="noopener">Paper</a>
+        </div>
       </li>
 
       <li>
