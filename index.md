@@ -165,6 +165,7 @@ permalink: /
     <ul class="news-list">
       <li>
         <span class="news-date">06/2026</span>
+        <span class="news-tag">Preprint</span>
         <span class="news-item-title">
           <em>"Scalable Derivative Gaussian Processes via Exact Gradient Reduction"</em>
         </span>
