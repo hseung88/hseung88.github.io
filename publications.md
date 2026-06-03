@@ -116,6 +116,10 @@ header h1 {
         <div class="pub-authors">
           <strong>Hyunseok Seung</strong> and Matthias Katzfuss
         </div>
+        <div class="pub-links">
+          <a class="pub-button pub-button-outline" href="https://doi.org/10.48550/arXiv.2606.02909" target="_blank" rel="noopener">Paper</a>
+          <a class="pub-button pub-button-outline" href="https://github.com/hseung88/tera" target="_blank" rel="noopener">Code</a>
+        </div>
       </li>
 
     </ul>
