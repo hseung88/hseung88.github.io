@@ -164,10 +164,17 @@ permalink: /
     <h2>News 📰</h2>
     <ul class="news-list">
       <li>
+        <span class="news-date">06/2026</span>
+        <span class="news-item-title">
+          <em>"Scalable Derivative Gaussian Processes via Exact Gradient Reduction"</em>
+        </span>
+        is now on <a href="https://doi.org/10.48550/arXiv.2606.02909" target="_blank" rel="noopener">arXiv</a>.
+      </li>
+      <li>
         <span class="news-date">05/2026</span>
         <span class="news-tag">Journal</span>
         <span class="news-item-title">
-          <em>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</em>
+          <em>"Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection"</em>
         </span>
         accepted for publication in <em>Stat</em>.
       </li>
@@ -175,7 +182,7 @@ permalink: /
         <span class="news-date">04/2026</span>
         <span class="news-tag">Journal</span>
         <span class="news-item-title">
-          <em>Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks</em>
+          <em>"Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks"</em>
         </span>
         accepted for publication in <em>Knowledge and Information Systems</em>.
       </li>
@@ -183,7 +190,7 @@ permalink: /
         <span class="news-date">11/2025</span>
         <span class="news-tag">Conference</span>
         <span class="news-item-title">
-          <em>Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning</em>
+          <em>"Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning"</em>
         </span>
         accepted to <em>AAAI Conference on Artificial Intelligence 2026</em>.
         <a href="https://arxiv.org/abs/2511.07971" target="_blank" rel="noopener">arXiv</a>
@@ -192,7 +199,7 @@ permalink: /
         <span class="news-date">10/2025</span>
         <span class="news-tag">Conference</span>
         <span class="news-item-title">
-          <em>MAC: An Efficient Gradient Preconditioning using Mean Activation Approximated Curvature</em>
+          <em>"MAC: An Efficient Gradient Preconditioning using Mean Activation Approximated Curvature"</em>
         </span>
         accepted to <em>IEEE International Conference on Data Mining 2025</em>.
         <a href="https://arxiv.org/abs/2506.08464" target="_blank" rel="noopener">arXiv</a>
