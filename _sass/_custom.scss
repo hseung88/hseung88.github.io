@@ -79,28 +79,18 @@ table.table a:hover {
   background: transparent !important;
 }
 
-.publications .abbr,
-.bibliography .abbr {
-  display: flex !important;
-  align-items: flex-start !important;
-  justify-content: flex-start !important;
-}
-
 .publications .abbr abbr,
 .publications .abbr abbr.badge,
 .publications abbr.badge,
 .bibliography .abbr abbr,
 .bibliography .abbr abbr.badge,
 .bibliography abbr.badge {
-  display: inline-flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  width: fit-content !important;
+  display: inline-block !important;
+  width: auto !important;
   min-width: 0 !important;
-  max-width: max-content !important;
   height: auto !important;
-  margin-bottom: 0.45rem !important;
-  padding: 0.2rem 0.42rem !important;
+  margin-bottom: 0.5rem !important;
+  padding: 0.25rem 0.5rem !important;
   border: 1px solid var(--site-accent-color) !important;
   border-radius: 0.25rem !important;
   background: var(--site-accent-color) !important;
@@ -236,9 +226,7 @@ body:has(.about-text) article > h2 + .publications {
 
 .publication-section-title {
   margin-top: 2.5rem;
-  margin-bottom: 0;
-  padding-bottom: 0.6rem;
-  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 0.6rem;
   font-size: 1.5rem;
   font-weight: 600;
   line-height: 1.3;
@@ -254,36 +242,42 @@ body:has(.about-text) article > h2 + .publications {
   padding-top: 0;
 }
 
-/* Hide al-folio's year headings. The publication year remains in each
-   venue line, so separate year labels would duplicate information. */
+/* al-folio inserts bibliography-year headings inside each category when
+   scholar.group_by is set to year. Scope these rules to the Publications page
+   so the About page's selected-paper list keeps its independent rhythm. */
 .publication-section > h2.bibliography {
-  display: none !important;
+  margin-bottom: 0.75rem !important;
+  color: var(--global-text-color) !important;
+  font-size: 1.15rem;
+  font-weight: 400;
 }
 
-/* Year grouping can generate multiple ordered lists. Remove their default
-   spacing so the publications read as one continuous list. */
-.publication-section > ol.bibliography {
-  margin: 0 !important;
-  padding: 0 !important;
+.publication-section > h2.bibliography:first-child {
+  margin-top: 0 !important;
+  padding-top: 0.35rem !important;
 }
 
-/* Keep publications visually separated by whitespace only. */
-.publication-section > ol.bibliography > li {
-  margin: 0 !important;
-  padding: 1.15rem 0 1.3rem !important;
-  border: 0 !important;
-}
-
-.publication-section > ol.bibliography:first-of-type > li:first-child {
-  padding-top: 1rem !important;
-}
-
-.publication-section > ol.bibliography:last-of-type > li:last-child {
-  padding-bottom: 0 !important;
+.publication-section > ol.bibliography + h2.bibliography {
+  margin-top: 2rem !important;
+  padding-top: 0.75rem !important;
 }
 
 .publication-section + .publication-section-title {
   margin-top: 2.75rem;
+}
+
+.publications ol.bibliography {
+  margin-top: 0;
+}
+
+.publications ol.bibliography li {
+  margin-bottom: 1.35rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.publications ol.bibliography li:last-child {
+  margin-bottom: 0;
 }
 
 .publications .title {
