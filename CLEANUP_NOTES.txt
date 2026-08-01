@@ -1,0 +1,22 @@
+This package is a conservative production cleanup of alfolio-test.zip.
+
+Removed:
+- embedded .git history and generated caches
+- editor and AI-agent metadata
+- al-folio demo posts, projects, books, teaching examples, and inactive demo pages
+- demo images, audio, video, Plotly, notebooks, sample PDFs, and sample CV data
+- upstream documentation, screenshots, Lighthouse reports, and test suites
+- unrelated Einstein citation/coauthor/repository/venue data
+- all GitHub workflows except deploy.yml
+
+Preserved:
+- all user-authored pages, news, bibliography, custom SCSS, active assets, CV PDF
+- Gemfile/Gemfile.lock and deployment/build tooling
+- Docker and local development scripts
+- the current visual/content configuration
+
+The .git directory is intentionally absent. Copy these files into the existing official repository working tree so its history is preserved.
+
+Backward compatibility preserved:
+- assets/posters/_AAAI_2026__LOREN_poster.pdf from the previous official repository
+- assets/cv/CurriculumVitae_HyunseokSeung.pdf as a legacy copy of the current CV PDF
