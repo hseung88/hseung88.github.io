@@ -1,0 +1,369 @@
+cv:
+  name: Hyunseok Seung
+  label: Postdoctoral Research Associate
+  email: hseung2@wisc.edu
+  location: Madison, WI
+  image: ""
+  summary: Postdoctoral researcher in Statistics at the University of Wisconsin--Madison. My research develops scalable probabilistic machine learning and optimization methods that use derivative, gradient, and curvature information under memory and computational constraints.
+
+  social_networks:
+    - network: GitHub
+      username: hseung88
+    - network: LinkedIn
+      username: hseung
+    - network: Google Scholar
+      username: qgzaJCcAAAAJ
+
+  address:
+    street: 1207 University Avenue, Morgridge Hall 4516
+    city: Madison
+    region: Wisconsin
+    postalCode: "53706"
+    countryCode: US
+
+  sections:
+    Professional Appointments:
+      - company: University of Wisconsin--Madison
+        position: Postdoctoral Research Associate, Department of Statistics
+        location: Madison, WI
+        start_date: 2025
+        end_date: present
+        highlights:
+          - "Advisor: Matthias Katzfuss"
+
+    Education:
+      - institution: University of Georgia
+        location: Athens, GA
+        area: Statistics
+        studyType: Ph.D.
+        start_date: 2019
+        end_date: 2025
+        highlights:
+          - "Advisors: Jaewoo Lee and Yuan Ke"
+          - "Dissertation: Scalable and Efficient Learning: Algorithmic Advances for Time Series and Deep Neural Models"
+
+      - institution: Yonsei University
+        location: Seoul, South Korea
+        area: Applied Statistics
+        studyType: M.A.
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - "Advisor: Sangun Park"
+          - "Thesis: Modified Likelihood Ratio Tests for Extreme Value Distributions"
+
+      - institution: Yonsei University
+        location: Seoul, South Korea
+        area: Applied Statistics
+        studyType: B.A.
+        start_date: 2012
+        end_date: 2016
+
+    Research Interests:
+      - name: Scalable probabilistic machine learning with gradient and curvature information
+        keywords: "Gaussian processes with derivatives, Bayesian optimization, curvature-aware optimization for deep learning"
+
+    Publications:
+      - title: "TERA: Scalable Derivative Gaussian Processes via Exact Gradient Reduction"
+        authors:
+          - Hyunseok Seung
+          - Matthias Katzfuss
+        publisher: Preprint
+        releaseDate: 2026
+        url: https://doi.org/10.48550/arXiv.2606.02909
+        summary: Target-specific exact gradient reduction for scalable derivative Gaussian processes.
+
+      - title: "Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning"
+        authors:
+          - Hyunseok Seung
+          - Jaewoo Lee
+          - Hyunsuk Ko
+        publisher: AAAI Conference on Artificial Intelligence
+        releaseDate: 2026
+        url: https://doi.org/10.1609/aaai.v40i30.39715
+        summary: Low-rank curvature-aware zeroth-order optimization for memory-efficient LLM fine-tuning.
+
+      - title: "MAC: An Efficient Gradient Preconditioning Using Mean Activation Approximated Curvature"
+        authors:
+          - Hyunseok Seung
+          - Jaewoo Lee
+          - Hyunsuk Ko
+        publisher: IEEE International Conference on Data Mining
+        releaseDate: 2025
+        url: https://doi.org/10.1109/ICDM65498.2025.00077
+        summary: Mean activation curvature for scalable gradient preconditioning in deep neural networks.
+
+      - title: "An Adaptive Method Stabilizing Activations for Enhanced Generalization"
+        authors:
+          - Hyunseok Seung
+          - Jaewoo Lee
+          - Hyunsuk Ko
+        publisher: IEEE International Conference on Data Mining Workshop
+        releaseDate: 2024
+        url: https://doi.org/10.1109/ICDMW65004.2024.00007
+
+      - title: "NysAct: A Scalable Preconditioned Gradient Descent Using Nyström Approximation"
+        authors:
+          - Hyunseok Seung
+          - Jaewoo Lee
+          - Hyunsuk Ko
+        publisher: IEEE International Conference on Big Data
+        releaseDate: 2024
+        url: https://doi.org/10.1109/BigData62323.2024.10825352
+
+      - title: "Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection"
+        authors:
+          - Hyunseok Seung
+          - Kaiwen Han
+          - Ye Shen
+          - Yuan Ke
+        publisher: Stat
+        releaseDate: 2026
+        url: https://doi.org/10.1002/sta4.70159
+
+      - title: "Mean Activation Curvature for Scalable Second-Order Optimization in Deep Networks"
+        authors:
+          - Hyunseok Seung
+          - Jaewoo Lee
+          - Hyunsuk Ko
+        publisher: Knowledge and Information Systems
+        releaseDate: 2026
+        url: https://doi.org/10.1007/s10115-026-02781-7
+        summary: Invited journal extension from the IEEE ICDM 2025 best-ranked paper selection.
+
+      - title: "Modified Likelihood Ratio Tests for Extreme Value Distributions"
+        authors:
+          - Hyunseok Seung
+          - Sangun Park
+        publisher: Communications in Statistics--Theory and Methods
+        releaseDate: 2021
+        url: https://doi.org/10.1080/03610926.2021.2018463
+
+    Research:
+      - company: University of Wisconsin--Madison
+        position: Scalable Gaussian Processes with Derivatives
+        location: Madison, WI
+        start_date: 2025
+        end_date: present
+        summary: Postdoctoral research advised by Matthias Katzfuss.
+        highlights:
+          - Developed a target-specific gradient reduction framework for derivative Gaussian processes, enabling scalable function-value prediction from gradient observations while preserving the exact gradient information required by each Vecchia predictive factor.
+
+      - company: University of Georgia
+        position: Curvature-Aware Optimization for Deep Learning
+        location: Athens, GA
+        start_date: 2022
+        end_date: 2025
+        summary: Research advised by Jaewoo Lee.
+        highlights:
+          - Developed a curvature-aware zeroth-order optimizer for LLM fine-tuning, improving convergence and test accuracy over MeZO-Adam while reducing memory usage.
+          - Developed scalable second-order optimization methods using activation covariance, improving vision transformer test accuracy over AdamW.
+
+      - company: University of Wisconsin--Madison
+        position: Hyperspectral Foundation Models
+        location: Madison, WI
+        start_date: 2025
+        end_date: present
+        summary: Collaboration with the Townsend Lab.
+        highlights:
+          - Developing hyperspectral foundation models by pre-training vision transformers on hyperspectral data and fine-tuning them for downstream trait prediction.
+
+      - company: University of Georgia
+        position: Time Series Forecasting
+        location: Athens, GA
+        start_date: 2021
+        end_date: 2023
+        summary: Research advised by Yuan Ke.
+        highlights:
+          - Developed hybrid COVID-19 mortality forecasting models using online autocovariance change point detection.
+
+      - company: SK hynix Inc.
+        position: Wafer Failure Early Detection System
+        location: Seoul, South Korea
+        start_date: 2018
+        end_date: 2018
+        highlights:
+          - Identified key predictors of wafer failure using statistical models for high-dimensional semiconductor fabrication data.
+
+      - company: Yonsei University
+        position: Modified Likelihood Ratio Tests
+        location: Seoul, South Korea
+        start_date: 2017
+        end_date: 2018
+        summary: Research advised by Sangun Park.
+        highlights:
+          - Developed modified likelihood ratio test statistics tailored to highly skewed settings to improve sensitivity to tail departures.
+
+    Software:
+      - name: TERA
+        summary: Scalable derivative Gaussian processes.
+        highlights:
+          - PyTorch implementation of target-specific gradient reduction for function-value prediction with gradient observations.
+        start_date: 2026
+        url: https://github.com/hseung88/tera
+
+      - name: LOREN
+        summary: Low-rank curvature for zeroth-order LLM fine-tuning.
+        highlights:
+          - PyTorch implementation of low-rank curvature-aware zeroth-order optimization for memory-efficient LLM fine-tuning.
+        start_date: 2025
+        url: https://github.com/hseung88/loren
+
+      - name: MAC
+        summary: Mean activation curvature for scalable second-order optimization.
+        highlights:
+          - PyTorch implementation of gradient preconditioning using mean activation curvature for training deep neural networks.
+        start_date: 2025
+        url: https://github.com/hseung88/mac
+
+      - name: ACP
+        summary: Enhancing COVID-19 mortality forecasting using change points.
+        highlights:
+          - PyTorch implementation of online autocovariance change point detection methods for COVID-19 mortality forecasting.
+        start_date: 2025
+        url: https://github.com/hseung88/acp
+
+      - name: NysAct
+        summary: Nyström activation covariance preconditioning.
+        highlights:
+          - PyTorch implementation of Nyström-approximated activation covariance preconditioning for scalable curvature-aware training.
+        start_date: 2024
+        url: https://github.com/hseung88/nysact
+
+      - name: AdaAct
+        summary: Adaptive activation stabilization for generalization.
+        highlights:
+          - PyTorch implementation of adaptive activation stabilization methods for improving generalization in deep neural networks.
+        start_date: 2024
+        url: https://github.com/hseung88/adaact
+
+    "Awards & Honors":
+      - title: Teaching Assistantship
+        authors:
+          - University of Georgia
+        date: 2019--2024
+        awarder: University of Georgia
+
+      - title: Industry-Sponsored Scholarship Recipient
+        authors:
+          - SK hynix Inc.
+        date: 2018
+        awarder: SK hynix Inc.
+
+      - title: Best Paper Presentation Award
+        authors:
+          - Korean Data and Information Science Society
+        date: 2018
+        awarder: Korean Data and Information Science Society
+
+      - title: Brain Korea 21 Fellowship
+        authors:
+          - Korean Government-Funded Graduate Program
+        date: 2017--2018
+        awarder: Korean Government-Funded Graduate Program
+
+      - title: Honors Award
+        authors:
+          - Yonsei University
+        date: 2015
+        awarder: Yonsei University
+
+    Conference Presentations:
+      - title: "An Efficient Gradient Preconditioning Using Mean Activation Approximated Curvature"
+        authors:
+          - Hyunseok Seung
+        publisher: IEEE International Conference on Data Mining
+        releaseDate: 2025-11
+        location: Washington, DC, USA
+
+      - title: "A Scalable Preconditioned Gradient Descent Using Nyström Approximation"
+        authors:
+          - Hyunseok Seung
+        publisher: IEEE International Conference on Big Data
+        releaseDate: 2024-12
+        location: Washington, DC, USA
+
+      - title: "Modified Likelihood Ratio Tests for Extreme Value Distributions"
+        authors:
+          - Hyunseok Seung
+        publisher: Korean Data and Information Science Society
+        releaseDate: 2018-05
+        location: Busan, South Korea
+
+    Posters:
+      - title: "Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning"
+        authors:
+          - Hyunseok Seung
+        publisher: AAAI Conference on Artificial Intelligence
+        releaseDate: 2026-01
+        location: Singapore
+
+      - title: "A Scalable Preconditioned Gradient Descent Using Nyström Approximation"
+        authors:
+          - Hyunseok Seung
+        publisher: AI Research Day, Institute for Artificial Intelligence
+        releaseDate: 2025-04
+        location: Athens, GA, USA
+
+      - title: "An Adaptive Method Stabilizing Activations for Enhanced Generalization"
+        authors:
+          - Hyunseok Seung
+        publisher: AI Research Day, Institute for Artificial Intelligence
+        releaseDate: 2024-04
+        location: Athens, GA, USA
+
+      - title: "Modified Likelihood Ratio Tests for Extreme Value Distributions"
+        authors:
+          - Hyunseok Seung
+        publisher: Korean Statistical Society
+        releaseDate: 2018-05
+        location: Busan, South Korea
+
+    Service:
+      - company: Journal of Computational and Graphical Statistics
+        position: Reviewer
+        start_date: 2026
+        end_date: 2026
+
+      - company: Advances in Neural Information Processing Systems
+        position: Reviewer
+        start_date: 2026
+        end_date: 2026
+
+    Teaching:
+      - company: Yonsei University
+        position: Lecturer, Instructor of Record
+        location: Seoul, South Korea
+        start_date: 2018
+        end_date: 2018
+        highlights:
+          - "STAT1001 Introduction to Statistics, Fall 2018"
+
+      - company: University of Georgia
+        position: Teaching Assistant
+        location: Athens, GA
+        start_date: 2019
+        end_date: 2023
+        highlights:
+          - "STAT6430 Design and Analysis of Experiments, Spring 2023"
+          - "STAT6315 Statistical Methods for Researchers, Spring 2023"
+          - "STAT8330 Advanced Statistical Applications and Computing, Fall 2022"
+          - "STAT6420 Applied Linear Models, Fall 2022"
+          - "STAT8440 Statistical Inference in Bioinformatics, Fall 2020"
+          - "STAT6210 Introduction to Statistical Methods, Fall 2020"
+          - "STAT6210 Statistical Methods, Fall 2019"
+          - "STAT4230 Applied Regression Analysis, Spring 2022"
+          - "STAT2360 Programming and Data Literacy using R, Fall 2021"
+          - "STAT4210 Statistical Methods, Spring 2021"
+          - "STAT3110 Introduction to Statistics for Life Sciences, Summer 2020"
+          - "STAT3120 Introduction to Probability for Life Sciences, Spring 2020"
+
+      - company: Yonsei University
+        position: Teaching Assistant
+        location: Seoul, South Korea
+        start_date: 2017
+        end_date: 2018
+        highlights:
+          - "STAT1001 Introduction to Statistics, Spring 2018"
+          - "STAT1001 Introduction to Statistics, Fall 2017"
+          - "STAT1001 Introduction to Statistics, Spring 2017"

@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules used by the al-folio core styles. */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure the gem-owned design tokens before loading the core partials. */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default: "930px" }}
+);
+
+/* al_folio_core styles. These resolve from the theme gem. */
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* Site-specific rules must be loaded last so they extend, rather than replace,
+   the gem-owned theme. */
+@use "custom";

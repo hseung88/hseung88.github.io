@@ -1,0 +1,9 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CurriculumVitae_HyunseokSeung.pdf # path to your CV PDF file
+email: hseung2@wisc.edu # your email address
+scholar_userid: qgzaJCcAAAAJ # your Google Scholar ID
+github_username: hseung88
+linkedin_username: hseung
+# rss_icon: false
