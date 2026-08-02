@@ -148,16 +148,11 @@ table.table a:hover {
   margin-bottom: 0;
 }
 
-@media (min-width: 768px) {
-  .about-text {
-    text-align: left;
-    text-justify: inter-word;
-  }
-}
 
 /* The About layout is gem-owned, so page scoping is based on the unique
    .about-text element. :has() is supported by current Chrome, Safari, and
    Firefox and avoids copying the complete about layout into this repository. */
+
 body:has(.about-text) article > h2 {
   font-size: 1.5rem;
   line-height: 1.3;
