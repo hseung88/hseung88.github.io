@@ -104,8 +104,8 @@ jobs:
           value: ${{ github.repository }}
 
       - name: Bust CSS cache
-          run: |
-            printf '\n/* build: %s */\n' "$GITHUB_SHA" >> assets/css/main.scss
+        run: |
+          printf '\n/* build: %s */\n' "$GITHUB_SHA" >> assets/css/main.scss
 
       - name: Build Jekyll site
         env:
