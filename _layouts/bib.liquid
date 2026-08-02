@@ -1,18 +1,25 @@
 ---
 ---
+<style>
+  .venue-badge-wrapper {
+    display: flex !important;
+    width: 100% !important;
+    align-items: flex-start !important;
+    justify-content: center !important;
+  }
+
+  @media (min-width: 576px) {
+    .venue-badge-wrapper {
+      justify-content: flex-end !important;
+    }
+  }
+</style>
+
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        <div
-          class="venue-badge-wrapper"
-          style="
-            display: flex;
-            width: 100%;
-            justify-content: center;
-            align-items: flex-start;
-          "
-        >
+        <div class="venue-badge-wrapper">
           {%- if site.data.venues[entry.abbr] -%}
             <abbr
               class="badge rounded"
