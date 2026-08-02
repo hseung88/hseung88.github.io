@@ -8,40 +8,6 @@ nav_order: 4
 
 <div class="teaching-page">
 
-  <section class="teaching-institution teaching-institution--featured" aria-labelledby="yonsei-teaching-title">
-    <header class="teaching-institution-header">
-      <div>
-        <p class="teaching-institution-kicker">Yonsei University</p>
-        <h2 id="yonsei-teaching-title">Instructor</h2>
-      </div>
-      <p class="teaching-institution-meta">Seoul, South Korea · 2017–2018</p>
-    </header>
-
-    <article class="teaching-role-feature">
-      <div class="teaching-role-topline">
-        <span class="teaching-role-badge">Instructor of Record</span>
-        <span class="teaching-role-term">Fall 2018</span>
-      </div>
-      <div class="teaching-course-feature">
-        <span class="teaching-course-code">STAT 1001</span>
-        <div>
-          <h3>Introduction to Statistics</h3>
-          <p>Undergraduate course</p>
-        </div>
-      </div>
-    </article>
-
-    <div class="teaching-secondary-role">
-      <div class="teaching-secondary-role-header">
-        <div>
-          <span class="teaching-role-badge teaching-role-badge--secondary">Teaching Assistant</span>
-          <h3>Introduction to Statistics</h3>
-        </div>
-        <span class="teaching-secondary-role-terms">Spring 2017 · Fall 2017 · Spring 2018</span>
-      </div>
-    </div>
-  </section>
-
   <section class="teaching-institution" aria-labelledby="uga-teaching-title">
     <header class="teaching-institution-header">
       <div>
@@ -131,6 +97,40 @@ nav_order: 4
           </li>
         </ul>
       </section>
+    </div>
+  </section>
+
+  <section class="teaching-institution teaching-institution--featured" aria-labelledby="yonsei-teaching-title">
+    <header class="teaching-institution-header">
+      <div>
+        <p class="teaching-institution-kicker">Yonsei University</p>
+        <h2 id="yonsei-teaching-title">Instructor</h2>
+      </div>
+      <p class="teaching-institution-meta">Seoul, South Korea · 2017–2018</p>
+    </header>
+
+    <article class="teaching-role-feature">
+      <div class="teaching-role-topline">
+        <span class="teaching-role-badge">Instructor of Record</span>
+        <span class="teaching-role-term">Fall 2018</span>
+      </div>
+      <div class="teaching-course-feature">
+        <span class="teaching-course-code">STAT 1001</span>
+        <div>
+          <h3>Introduction to Statistics</h3>
+          <p>Undergraduate course</p>
+        </div>
+      </div>
+    </article>
+
+    <div class="teaching-secondary-role">
+      <div class="teaching-secondary-role-header">
+        <div>
+          <span class="teaching-role-badge teaching-role-badge--secondary">Teaching Assistant</span>
+          <h3>Introduction to Statistics</h3>
+        </div>
+        <span class="teaching-secondary-role-terms">Spring 2017 · Fall 2017 · Spring 2018</span>
+      </div>
     </div>
   </section>
 
