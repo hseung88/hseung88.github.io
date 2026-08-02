@@ -68,6 +68,21 @@ table.table a:hover {
   -webkit-text-fill-color: #ffffff;
 }
 
+/* --------------------------------------------------------------------------
+ * Publication venue badges
+ * -------------------------------------------------------------------------- */
+
+.venue-badge-wrapper .badge {
+  padding: 0.25rem 0.5rem;
+  border: 1px solid var(--site-accent-color);
+  border-radius: 0.25rem;
+  background: var(--site-accent-color);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.1;
+  -webkit-text-fill-color: #ffffff;
+}
 
 /* --------------------------------------------------------------------------
  * About page
