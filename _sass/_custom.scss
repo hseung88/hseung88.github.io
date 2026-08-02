@@ -72,11 +72,13 @@ table.table a:hover {
  * Publication venue badges
  * -------------------------------------------------------------------------- */
 
-.publications .abbr,
-.bibliography .abbr {
+.publications ol.bibliography li .row > .abbr,
+.bibliography li .row > .abbr {
   display: flex !important;
-  align-items: flex-start !important;
-  justify-content: center !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+
   box-sizing: border-box !important;
   padding: 0 !important;
   border: 0 !important;
@@ -84,28 +86,25 @@ table.table a:hover {
   text-align: center !important;
 }
 
-.publications .abbr abbr,
-.publications .abbr abbr.badge,
-.publications .abbr abbr.badge.w-100,
-.publications abbr.badge,
-.publications abbr.badge.w-100,
-.bibliography .abbr abbr,
-.bibliography .abbr abbr.badge,
-.bibliography .abbr abbr.badge.w-100,
-.bibliography abbr.badge,
-.bibliography abbr.badge.w-100 {
+.publications ol.bibliography li .abbr > abbr,
+.publications ol.bibliography li .abbr > abbr.badge,
+.publications ol.bibliography li .abbr > abbr.badge.w-100,
+.bibliography li .abbr > abbr,
+.bibliography li .abbr > abbr.badge,
+.bibliography li .abbr > abbr.badge.w-100 {
   display: inline-flex !important;
   flex: 0 0 auto !important;
+  align-self: center !important;
   align-items: center !important;
   justify-content: center !important;
-  box-sizing: border-box !important;
 
-  width: fit-content !important;
+  box-sizing: border-box !important;
+  width: auto !important;
   min-width: 0 !important;
   max-width: 100% !important;
   height: auto !important;
 
-  margin: 0 auto 0.5rem !important;
+  margin: 0 0 0.5rem !important;
   padding: 0.25rem 0.5rem !important;
 
   border: 1px solid var(--site-accent-color) !important;
@@ -122,6 +121,7 @@ table.table a:hover {
 
   -webkit-text-fill-color: #ffffff !important;
 }
+
 /* --------------------------------------------------------------------------
  * About page
  * -------------------------------------------------------------------------- */
