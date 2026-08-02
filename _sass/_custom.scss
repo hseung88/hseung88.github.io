@@ -127,7 +127,7 @@ table.table a:hover {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.5;
-  text-align: left;
+  text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
 }
@@ -406,7 +406,7 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
 .research-lead {
   max-width: 780px;
   margin: 0;
-  text-align: left;
+  text-align: justify;
   font-size: 1.0rem;
   line-height: 1.5;
 }
@@ -773,7 +773,7 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
 }
 
 .research-feature--wide .research-feature-narrative {
-  text-align: left;
+  text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
 }
@@ -1278,5 +1278,34 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
     width: 100% !important;
     max-width: none !important;
     height: auto !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  body:has(.about-text) .news .table-responsive {
+    display: block !important;
+    width: 100% !important;
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  body:has(.about-text) .news table {
+    width: 100% !important;
+    table-layout: fixed !important;
+    margin-bottom: 0 !important;
+  }
+
+  body:has(.about-text) .news th {
+    width: 5.2rem !important;
+    min-width: 0 !important;
+    padding-right: 0.55rem !important;
+    white-space: normal !important;
+  }
+
+  body:has(.about-text) .news td {
+    width: auto !important;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
 }
