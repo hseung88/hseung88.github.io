@@ -1313,3 +1313,18 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
 .research-lead + .research-lead {
   margin-top: 1rem;
 }
+
+@media (max-width: 575.98px) {
+  body:has(.about-text) .profile figure {
+    margin-bottom: 0.75rem !important;
+    text-align: center !important;
+  }
+
+  body:has(.about-text) .profile figure img {
+    display: block !important;
+    width: 55% !important;
+    max-width: 190px !important;
+    height: auto !important;
+    margin: 0 auto !important;
+  }
+}
