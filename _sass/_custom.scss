@@ -224,6 +224,19 @@ body:has(.about-text) article > h2 + .publications {
   margin-bottom: 2rem;
 }
 
+body:has(.about-text) article > h2 > a[href$="/news/"],
+body:has(.about-text) article > h2 > a[href$="/publications/"] {
+  display: block;
+  color: var(--global-text-color) !important;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  line-height: inherit;
+  text-decoration: none !important;
+  text-transform: capitalize;
+  -webkit-text-fill-color: var(--global-text-color) !important;
+}
+
 /* --------------------------------------------------------------------------
  * Publications page section rhythm
  * -------------------------------------------------------------------------- */
