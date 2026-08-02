@@ -144,7 +144,7 @@ table.table a:hover {
 
 @media (min-width: 768px) {
   .about-text {
-    text-align: justify;
+    text-align: left;
     text-justify: inter-word;
   }
 }
@@ -406,9 +406,9 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
 .research-lead {
   max-width: 780px;
   margin: 0;
-  text-align: justify;
-  font-size: 1.02rem;
-  line-height: 1.72;
+  text-align: left;
+  font-size: 1.0rem;
+  line-height: 1.5;
 }
 
 .research-lead-secondary {
@@ -773,7 +773,7 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
 }
 
 .research-feature--wide .research-feature-narrative {
-  text-align: justify;
+  text-align: left;
   text-justify: inter-word;
   hyphens: auto;
 }
@@ -1265,3 +1265,18 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
   color: var(--site-accent-hover-color);
 }
 
+@media (max-width: 575.98px) {
+  .research-feature--wide .research-visual--tera,
+  .research-feature--wide .research-visual--loren {
+    width: 100% !important;
+    max-width: none !important;
+    margin-inline: 0 !important;
+  }
+
+  .research-feature--wide .research-visual--tera img,
+  .research-feature--wide .research-visual--loren img {
+    width: 100% !important;
+    max-width: none !important;
+    height: auto !important;
+  }
+}
