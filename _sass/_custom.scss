@@ -1309,3 +1309,7 @@ body:has(.about-text) article > h2 > a[href$="/publications/"] {
     word-break: normal;
   }
 }
+
+.research-lead + .research-lead {
+  margin-top: 1rem;
+}
