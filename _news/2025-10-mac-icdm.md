@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<span class="news-badge conference">Conference</span> <em>MAC: An efficient gradient preconditioning using mean activation approximated curvature</em> was accepted to the <em>IEEE International Conference on Data Mining 2025</em>.
+<span class="news-badge conference">Conference</span> &ldquo;MAC: An efficient gradient preconditioning 
+using mean activation approximated curvature&rdquo; was accepted to the <em>IEEE International Conference on 
+Data Mining (ICDM 2025)</em>.
