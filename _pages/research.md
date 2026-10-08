@@ -109,7 +109,7 @@ nav_order: 1
       </p>
     </div>
 
-    <div class="representative-work">
+    <div class="representative-work representative-work--stacked">
       <span class="representative-label">Representative work</span>
         <div>
           <strong>
