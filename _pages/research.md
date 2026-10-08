@@ -111,16 +111,28 @@ nav_order: 1
 
     <div class="representative-work">
       <span class="representative-label">Representative work</span>
+        <div>
+          <strong>
+            Scalable Derivative Gaussian Processes via Exact Gradient Reduction
+          </strong>
+    
+          <span class="representative-links">
+            <a href="https://doi.org/10.48550/arXiv.2606.02909">Paper</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://github.com/hseung88/tera">Code</a>
+          </span>
+        </div>
 
-      <strong>
-        Scalable Derivative Gaussian Processes via Exact Gradient Reduction
-      </strong>
-
-      <span class="representative-links">
-        <a href="https://doi.org/10.48550/arXiv.2606.02909">Paper</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://github.com/hseung88/tera">Code</a>
-      </span>
+        <div>
+          <strong>
+            Derivative Gaussian Processes on a Two-Direction Budget
+          </strong>
+          <span class="representative-links">
+            <a href="https://doi.org/10.48550/arXiv.2610.10428">Paper</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://github.com/hseung88/lite">Code</a>
+          </span>
+        </div>
     </div>
   </div>
 </section>
