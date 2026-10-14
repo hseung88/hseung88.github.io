@@ -189,11 +189,27 @@ nav_order: 3
     .talks-page .talks-links a {
       min-height: 2.75rem;
     }
+
+    .talks-page .talks-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+    }
+    
+    .talks-page .talks-title-row .talks-title {
+      flex: 1;
+      min-width: 0;
+    }
+    
+    .talks-page .talks-title-row .talks-links {
+      flex-shrink: 0;
+      margin-top: 0;
+    }
   }
 </style>
 
 <div class="talks-page">
-  <p class="talks-intro">Research talks and poster presentations.</p>
 
   <section class="talks-section" aria-labelledby="oral-presentations">
     <header class="talks-section-header">
@@ -263,15 +279,27 @@ nav_order: 3
           <span class="talks-month">January</span>
         </time>
         <div class="talks-details">
-          <h3 class="talks-title">Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning</h3>
-          <p class="talks-venue">AAAI Conference on Artificial Intelligence</p>
-          <p class="talks-location">Singapore</p>
-          <div class="talks-links">
-            <a href="{{ '/assets/pdf/_AAAI_2026__LOREN_poster.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="LOREN poster (PDF, opens in a new tab)">
-              <svg xmlns="http://www.w3.org/2000/svg" width="13" height="15" viewBox="0 0 16 18" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true" focusable="false"><path d="M3 1h6l4 4v12H3z"/><path d="M9 1v4h4M5.5 9h5M5.5 12h5"/></svg>
-              Poster <span aria-hidden="true">↗</span>
-            </a>
+          <div class="talks-title-row">
+            <h3 class="talks-title">
+              Low-Rank Curvature for Zeroth-Order Optimization in LLM Fine-Tuning
+            </h3>
+        
+            <div class="talks-links">
+              <a
+                href="{{ '/assets/pdf/loren_aaai2026_poster.pdf' | relative_url }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LOREN poster (PDF, opens in a new tab)"
+              >
+                Poster <span aria-hidden="true">↗</span>
+              </a>
+            </div>
           </div>
+        
+          <p class="talks-venue">
+            AAAI Conference on Artificial Intelligence
+          </p>
+          <p class="talks-location">Singapore</p>
         </div>
       </li>
 
